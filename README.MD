@@ -10,6 +10,7 @@ Slap a person to release your anger, or other personal reasons this useless proj
 -----------------------------
 ### Just get in and try it 
 > git clone https://github.com/Jitendra300/slap-in-python.git
+
 > cd slap-in-python
 
 # Thanks... ;)
